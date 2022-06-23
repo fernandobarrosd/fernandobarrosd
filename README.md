@@ -1,16 +1,23 @@
-### Hi there 👋
+😁 Portifólio sobre mim
 
-<!--
-**fernandobarrosd/fernandobarrosd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Sobre</h1>
+<p>
+    Minha linguagem de programação atual: JavaScript<br>
+    Foco: Atualmente na parte de desenvolvimento Front-End<br>
+    Ferramentas que eu uso: VsCode, Git, Github Deskop.
+</p>
+
+<h2>Perfil</h2>
+<p>
+Nome: Fernando de Barros<br>
+Link do meu portifólio: (Desenvolvimento)<br>
+Obs: O portifólio não está pronto, to pensando ainda<br>
+o que colocar e como fazer. 
+</p>
+
+
+
+
+
