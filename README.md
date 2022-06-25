@@ -15,6 +15,13 @@
   o que colocar e como fazer. 
 </p>
 
+<h3>Tecnlogias</h3>
+
+
+<div style="display: flex; align-itens: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobarrosd&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" style="height: 190px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515""/>
+</div>
 
 
 
