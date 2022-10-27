@@ -5,7 +5,7 @@
 <p>
   Minha linguagem de programação atual: JavaScript<br>
   Foco: Atualmente na parte de desenvolvimento Front-End<br>
-  Ferramentas que eu uso: VsCode, Git, Github Deskop.
+  Ferramentas que eu uso: VsCode, Git
 </p>
 <h2>Perfil</h2>
 <p>
