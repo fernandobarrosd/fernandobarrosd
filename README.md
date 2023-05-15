@@ -15,7 +15,7 @@
 </p>
 
 <h3>Tecnlogias</h3>
-<span>Vscode: </span>
+<span>VsCode: </span>
 <a href="https://code.visualstudio.com/">https://code.visualstudio.com/</a>
  
  <span>Git: </span>
