@@ -1,5 +1,8 @@
 # 😁 About me
 
+Hi, my name is Fernando de Barros, currently I am studying programming,<br> 
+principally in the Backend and Frontend.
+
 #######################################################################
 
 **<p>Name: Fernando de Barros</p>**
