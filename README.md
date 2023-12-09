@@ -9,7 +9,7 @@ principally in the Backend and Frontend.
 **<p>Age: 19 years old</p>**
 **<p>Favorite programming language: Javascript</p>**
 #######################################################################
-**<p>Programming tools</p>**
+## Programming tools
   - [Vscode](https://code.visualstudio.com)
   - [Git](https://git-scm.com)
   - [Android Studio](https://developer.android.com/studio)
@@ -17,3 +17,8 @@ principally in the Backend and Frontend.
 
 
 #######################################################################
+
+
+## Contacts
+
+- Instagram: [@f.barros.nando](https://www.instagram.com/f.barros.nando/)
