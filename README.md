@@ -14,6 +14,7 @@ principally in the Backend and Frontend.
   - [Git](https://git-scm.com)
   - [Android Studio](https://developer.android.com/studio)
   - [Intelij IDEA](https://www.jetbrains.com/pt-br/idea/)
+  - [Docker](https://www.docker.com/)
 
 
 #######################################################################
