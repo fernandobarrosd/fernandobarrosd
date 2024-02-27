@@ -9,7 +9,7 @@ principally in the Backend and Frontend.
 **<p>Age: 19 years old</p>**
 **<p>Favorite programming language: Javascript</p>**
 #######################################################################
-## Programming tools
+## Programming tools 👨‍💻
   - [Vscode](https://code.visualstudio.com)
   - [Git](https://git-scm.com)
   - [Android Studio](https://developer.android.com/studio)
@@ -17,12 +17,15 @@ principally in the Backend and Frontend.
   - [Docker](https://www.docker.com/)
 
 
-#######################################################################
+## Tecnologies
+
+<div class=/>
 
 
 ## Contacts
 
 - Instagram: [@f.barros.nando](https://www.instagram.com/f.barros.nando/)
-- Discord: fernandozoeirobr
+- Discord: @fernandozoeirobr
 - Twitter: [@fernandowaryt](https://twitter.com/fernandowaryt)
 - Linkedin: [Fernando de Barros](https://www.linkedin.com/in/fernando-de-barros-204864241/)
+
