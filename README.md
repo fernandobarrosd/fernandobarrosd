@@ -19,13 +19,12 @@ principally in the Backend and Frontend.
 
 ## Tecnologies
 
-<div class=/>
 
 
 ## Contacts
 
 - Instagram: [@f.barros.nando](https://www.instagram.com/f.barros.nando/)
 - Discord: @fernandozoeirobr
-- Twitter: [@fernandowaryt](https://twitter.com/fernandowaryt)
+- Twitter: [@fbarrosdev](https://twitter.com/fbarrosdev)
 - Linkedin: [Fernando de Barros](https://www.linkedin.com/in/fernando-de-barros-204864241/)
 
