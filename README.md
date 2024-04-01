@@ -35,11 +35,18 @@ Hi, my name is Fernando de Barros, i have 19 years old currently I am studying p
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=fernandobarrosd)
 
+## Projects
+
+- BRL Money Converter: https://github.com/fernandobarrosd/brl-money-converter
+- Fernando Streaming Videos: https://github.com/fernandobarrosd/fernando-streaming-videos
+- Meme Quiz: https://github.com/fernandobarrosd/meme-quiz-reactjs
+
 
 ## Contacts
 - Instagram: [@f.barros.nando](https://www.instagram.com/f.barros.nando/)
 - Discord: @fernandozoeirobr
 - Twitter: [@fbarrosdev](https://twitter.com/fbarrosdev)
 - Linkedin: [Fernando de Barros](https://www.linkedin.com/in/fernando-de-barros-204864241/)
+
 
 
