@@ -34,6 +34,10 @@ Graduated from Instituto Federal Rio-grandense (IFSUL) in the end of 2023, i am 
 <a href="https://www.typescriptlang.org/" target="_blank">
   <img src="./icons/typescript-logo.png" width="40">
 </a>
+<a href="https://www.java.com/pt-BR/" target="_blank">
+  <img src="./icons/java-logo.png" width="40">
+</a>
+
 
 
 ## Statistics
