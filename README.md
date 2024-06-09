@@ -1,6 +1,6 @@
 # 😁 About me
 
-Gratuated from Instituto Federal Rio-grandense (IFSUL) in the end of 2023, i am search my first job oportunity in the technology area. 
+Graduated from Instituto Federal Rio-grandense (IFSUL) in the end of 2023, i am search my first job oportunity in the technology area. 
 
 
 **<p>Name: Fernando de Barros</p>**
