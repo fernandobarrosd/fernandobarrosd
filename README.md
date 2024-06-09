@@ -1,18 +1,17 @@
 # 😁 About me
 
-Hi, my name is Fernando de Barros, i have 19 years old currently I am studying programming,<br> principally in the Backend and Frontend. am begin in programming in 2020.
+Gratuated from Instituto Federal Rio-grandense (IFSUL) in the end of 2023, i am search my first job oportunity in the technology area. 
 
 
 **<p>Name: Fernando de Barros</p>**
 **<p>Age: 19 years old</p>**
 **<p>Principally programming language: Javascript</p>**
-
+**Am I working? no**
 
 ## Programming tools 👨‍💻
   - [Vscode](https://code.visualstudio.com)
   - [Git](https://git-scm.com)
   - [Android Studio](https://developer.android.com/studio)
-  - [Intelij IDEA](https://www.jetbrains.com/pt-br/idea/)
   - [Docker](https://www.docker.com/)
 
 
@@ -34,12 +33,6 @@ Hi, my name is Fernando de Barros, i have 19 years old currently I am studying p
 ## Statistics
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=fernandobarrosd)
-
-## Projects
-
-- BRL Money Converter: https://github.com/fernandobarrosd/brl-money-converter
-- Fernando Streaming Videos: https://github.com/fernandobarrosd/fernando-streaming-videos
-- Meme Quiz: https://github.com/fernandobarrosd/meme-quiz-reactjs
 
 
 ## Contacts
