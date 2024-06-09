@@ -28,6 +28,12 @@ Graduated from Instituto Federal Rio-grandense (IFSUL) in the end of 2023, i am 
 <a href="https://react.dev/" target="_blank">
   <img src="./icons/react-js-icon.svg" width="40">
 </a>
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="./icons/kotlin-logo.png" width="40">
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="./icons/typescript-logo.png" width="40">
+</a>
 
 
 ## Statistics
