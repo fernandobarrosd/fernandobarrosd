@@ -8,6 +8,12 @@ Graduated from Instituto Federal Rio-grandense (IFSUL) in the end of 2023, i am 
 **<p>Principally programming language: Java/Kotlin</p>**
 **Am I workin? no**
 
+## Contacts
+- Instagram: [@f.barros.nando](https://www.instagram.com/f.barros.nando/)
+- Discord: @fernandozoeirobr
+- Twitter: [@fbarrosdev](https://twitter.com/fbarrosdev)
+- Linkedin: [Fernando de Barros](https://www.linkedin.com/in/fernando-de-barros-204864241/)
+
 ## Programming tools 👨‍💻
   - [Vscode](https://code.visualstudio.com)
   - [Git](https://git-scm.com)
@@ -44,13 +50,6 @@ Graduated from Instituto Federal Rio-grandense (IFSUL) in the end of 2023, i am 
 ## Statistics
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=fernandobarrosd)
-
-
-## Contacts
-- Instagram: [@f.barros.nando](https://www.instagram.com/f.barros.nando/)
-- Discord: @fernandozoeirobr
-- Twitter: [@fbarrosdev](https://twitter.com/fbarrosdev)
-- Linkedin: [Fernando de Barros](https://www.linkedin.com/in/fernando-de-barros-204864241/)
 
 
 
