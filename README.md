@@ -5,13 +5,14 @@ Graduated from Instituto Federal Rio-grandense (IFSUL) in the end of 2023, i am 
 
 **<p>Name: Fernando de Barros</p>**
 **<p>Age: 20 years old</p>**
-**<p>Principally programming language: Javascript</p>**
-**Am I working? no**
+**<p>Principally programming language: Java/Kotlin</p>**
+**Am I workin? no**
 
 ## Programming tools 👨‍💻
   - [Vscode](https://code.visualstudio.com)
   - [Git](https://git-scm.com)
   - [Android Studio](https://developer.android.com/studio)
+  - [Kotlin](https://kotlinlang.org/)
   - [Docker](https://www.docker.com/)
 
 
