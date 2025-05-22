@@ -1,12 +1,6 @@
 # 😁 About me
 
-Graduated from Instituto Federal Rio-grandense (IFSUL) in the end of 2023, i am search my first job oportunity in the technology area. 
-
-
-**<p>Name: Fernando de Barros</p>**
-**<p>Age: 20 years old</p>**
-**<p>Principally programming language: Java/Kotlin</p>**
-**Am I workin? no**
+Hi my name is Fernando de Barros, I have 20 years old, I Graduated from Instituto Federal Rio-grandense (IFSUL) at the end of 2023, i am looking for my first job oportunity in the technology area.
 
 ## Contacts
 - Instagram: [@f.barros.nando](https://www.instagram.com/f.barros.nando/)
