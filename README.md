@@ -17,7 +17,7 @@ Hi my name is Fernando de Barros, I have 20 years old, I Graduated from Institut
 
 ## Tecnologies
 [<img src="./badges/html5-badge.svg"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5){:target="_blank"}
-[<img src="./badges/css3-badge.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS){:target="_blank" }
+[<img src="./badges/css3-badge.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS){:target="_blank"}
 [<img src="./badges/javascript-badge.svg"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript){:target="_blank"}
 [<img src="./badges/react-badge.svg"/>](https://react.dev/){:target="_blank"}
 [<img src="./badges/kotlin-badge.svg"/>](https://kotlinlang.org/)
