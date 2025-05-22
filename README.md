@@ -8,35 +8,22 @@ Hi my name is Fernando de Barros, I have 20 years old, I Graduated from Institut
 - Twitter: [@fbarrosdev](https://twitter.com/fbarrosdev)
 - Linkedin: [Fernando de Barros](https://www.linkedin.com/in/fernando-de-barros-204864241/)
 
-## Programming tools 👨‍💻
-  - [Vscode](https://code.visualstudio.com)
-  - [Git](https://git-scm.com)
-  - [Android Studio](https://developer.android.com/studio)
-  - [Docker](https://www.docker.com/)
+## Developer tools 👨‍💻
+<!--[<img src="./badges/vscode-badge.svg"/>](https://code.visualstudio.com)-->
+[<img src="./badges/git-badge.svg"/>](https://git-scm.com)
+[<img src="./badges/android-studio-badge.svg"/>](https://developer.android.com/studio)
+[<img src="./badges/docker-badge.svg"/>](https://www.docker.com/)
 
 
 ## Tecnologies
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-  <img src="./icons/html-icon.svg" width="40">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="./icons/css-icon.svg" width="40">
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="./icons/js-icon.svg" width="40">
-</a>
-<a href="https://react.dev/" target="_blank">
-  <img src="./icons/react-js-icon.svg" width="40">
-</a>
-<a href="https://kotlinlang.org/" target="_blank">
-  <img src="./icons/kotlin-logo.png" width="40">
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="./icons/typescript-logo.png" width="40">
-</a>
-<a href="https://www.java.com/pt-BR/" target="_blank">
-  <img src="./icons/java-logo.png" width="40">
-</a>
+[<img src="./badges/html5-badge.svg"/>](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[<img src="./badges/css3-badge.svg"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="./badges/javascript-badge.svg"/>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[<img src="./badges/react-badge.svg"/>](https://react.dev/)
+[<img src="./badges/kotlin-badge.svg"/>](https://kotlinlang.org/)
+[<img src="./badges/typescript-badge.svg"/>](https://www.typescriptlang.org)
+[<img src="./badges/java-badge.svg"/>](https://www.java.com/pt-BR/)
+
 
 
 
