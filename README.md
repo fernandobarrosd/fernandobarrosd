@@ -12,7 +12,6 @@ Hi my name is Fernando de Barros, I have 20 years old, I Graduated from Institut
   - [Vscode](https://code.visualstudio.com)
   - [Git](https://git-scm.com)
   - [Android Studio](https://developer.android.com/studio)
-  - [Kotlin](https://kotlinlang.org/)
   - [Docker](https://www.docker.com/)
 
 
