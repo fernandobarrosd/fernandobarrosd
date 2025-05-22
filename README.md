@@ -8,11 +8,11 @@ Hi my name is Fernando de Barros, I have 20 years old, I Graduated from Institut
 - Twitter: [@fbarrosdev](https://twitter.com/fbarrosdev)
 - Linkedin: [Fernando de Barros](https://www.linkedin.com/in/fernando-de-barros-204864241/)
 
-## Programming tools 👨‍💻
-  - [Vscode](https://code.visualstudio.com)
-  - [Git](https://git-scm.com)
-  - [Android Studio](https://developer.android.com/studio)
-  - [Docker](https://www.docker.com/)
+## Developer tools 👨‍💻
+<!--[<img src="./badges/vscode-badge.svg"/>](https://code.visualstudio.com)-->
+[<img src="./badges/git-badge.svg"/>](https://git-scm.com)
+[<img src="./badges/android-studio-badge.svg"/>](https://developer.android.com/studio)
+[<img src="./badges/docker-badge.svg"/>](https://www.docker.com/)
 
 
 ## Tecnologies
